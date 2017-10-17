@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="hi0703@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.2">
+    <root id="1"/>
+    <schema id="2" parent="1" name="hi0703">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="BlogBlogger"/>
+    <schema id="4" parent="1" name="bookstore"/>
+    <schema id="5" parent="1" name="crm"/>
+    <schema id="6" parent="1" name="crm1"/>
+    <schema id="7" parent="1" name="exam"/>
+    <schema id="8" parent="1" name="hibernate"/>
+    <schema id="9" parent="1" name="information_schema"/>
+    <schema id="10" parent="1" name="java1"/>
+    <schema id="11" parent="1" name="jdbc"/>
+    <schema id="12" parent="1" name="jobs"/>
+    <schema id="13" parent="1" name="meishi_J"/>
+    <schema id="14" parent="1" name="messageBoard"/>
+    <schema id="15" parent="1" name="mybatis"/>
+    <schema id="16" parent="1" name="mydb1"/>
+    <schema id="17" parent="1" name="mydb10"/>
+    <schema id="18" parent="1" name="mydb2"/>
+    <schema id="19" parent="1" name="mydb3"/>
+    <schema id="20" parent="1" name="mydb4"/>
+    <schema id="21" parent="1" name="mydb6"/>
+    <schema id="22" parent="1" name="mydb7"/>
+    <schema id="23" parent="1" name="mydb8"/>
+    <schema id="24" parent="1" name="mysql"/>
+    <schema id="25" parent="1" name="netctoss"/>
+    <schema id="26" parent="1" name="orders"/>
+    <schema id="27" parent="1" name="performance_schema"/>
+    <schema id="28" parent="1" name="perhou"/>
+    <schema id="29" parent="1" name="regist"/>
+    <schema id="30" parent="1" name="stu"/>
+    <schema id="31" parent="1" name="sys"/>
+    <schema id="32" parent="1" name="userprac"/>
+  </database-model>
+</dataSource>
